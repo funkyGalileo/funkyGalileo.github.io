@@ -1,3 +1,3 @@
 # funkyGalileo.github.io
-first website
+my very first website
 title: hello bubba
